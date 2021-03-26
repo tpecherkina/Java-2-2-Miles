@@ -3,6 +3,5 @@ public class Main {
         int bonusCost = 20;
         int bonusMiles = price / bonusCost;
         return bonusMiles;
-   
-    }
+      }
 }
